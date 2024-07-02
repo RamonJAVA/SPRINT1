@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>SPRINT1</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>TASCA1</module>
+        <module>TASCA2</module>
+        <module>TASCA3</module>
+        <module>TASCA4</module>
+        <module>TASCA5</module>
+        <module>TASCA6</module>
+        <module>TASCA7</module>
+        <module>TASCA8</module>
+        <module>TASCA1/T1NIVEL1</module>
+        <module>TASCA1/T1NIVEL2</module>
+        <module>TASCA1/T1NIVEL1/T1N1EJERCICIO1</module>
+        <module>TASCA1/T1NIVEL1/T1N1EJERCICIO2</module>
+        <module>TASCA1/T1NIVEL2/T1N2EJERCICIO1</module>
+        <module>TASCA2/T2NIVEL1</module>
+        <module>TASCA2/T2NIVEL2</module>
+        <module>TASCA2/T2NIVEL1/T2N1EJERCICIO1</module>
+        <module>TASCA2/T2NIVEL2/T2N2EJERCICIO1</module>
+        <module>TASCA3/T3NIVEL1</module>
+        <module>TASCA3/T3NIVEL2</module>
+        <module>TASCA3/T3NIVEL1/T3N1EJERCICIO1</module>
+        <module>TASCA3/T3NIVEL1/T3N1EJERCICIO2</module>
+        <module>TASCA3/T3NIVEL1/T3N1EJERCICIO3</module>
+        <module>TASCA3/T3NIVEL2/T3N2EJERCICIO1</module>
+        <module>TASCA3/T3NIVEL2/T3N2EJERCICIO2</module>
+        <module>TASCA4/T4NIVEL1</module>
+        <module>TASCA4/T4NIVEL1/T4N1EJERCICIO1</module>
+        <module>TASCA4/T4NIVEL1/T4N1EJERCICIO2</module>
+        <module>TASCA4/T4NIVEL1/T4N1EJERCICIO3</module>
+        <module>TASCA1/T1NIVEL1/T1N1EJERCICIO2</module>
+        <module>TASCA5/T5NIVEL1</module>
+        <module>TASCA5/T5NIVEL1/T5N1EJERCICIO1</module>
+        <module>TASCA5/T5NIVEL2</module>
+        <module>TASCA5/T5NIVEL2/T5N2EJERCICIO1</module>
+        <module>TASCA6/T6NIVEL1</module>
+        <module>TASCA6/T6NIVEL1/T6N1EJERCICIO1</module>
+        <module>TASCA6/T6NIVEL1/T6N1EJERCICIO2</module>
+        <module>TASCA6/T6NIVEL2</module>
+        <module>TASCA6/T6NIVEL2/T6N2EJERCICIO1</module>
+        <module>TASCA6/T6NIVEL2/T6N2EJERCICIO2</module>
+        <module>TASCA7/T7NIVEL1</module>
+        <module>TASCA7/T7NIVEL2</module>
+        <module>TASCA7/T7NIVEL1/T7N1EJERCICIO1</module>
+        <module>TASCA7/T7NIVEL1/T7N1EJERCICIO2</module>
+        <module>TASCA7/T7NIVEL2/T7N2EJERCICIO1</module>
+        <module>TASCA8/T8NIVEL1</module>
+        <module>TASCA8/T8NIVEL2</module>
+        <module>TASCA8/T8NIVEL1/T8N1EJERCICIO1</module>
+        <module>TASCA8/T8NIVEL2/T8N2EJERCICIO1</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>22</maven.compiler.source>
+        <maven.compiler.target>22</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
