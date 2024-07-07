@@ -57,6 +57,13 @@
         <module>TASCA8/T8NIVEL2</module>
         <module>TASCA8/T8NIVEL1/T8N1EJERCICIO1</module>
         <module>TASCA8/T8NIVEL2/T8N2EJERCICIO1</module>
+        <module>TASCA8/T8NIVEL1/T8N1EJERCICIO2</module>
+        <module>TASCA8/T8NIVEL1/T8N1EJERCICIO3</module>
+        <module>TASCA8/T8NIVEL1/T8N1EJERCICIO4</module>
+        <module>TASCA8/T8NIVEL1/T8N1EJERCICIO5</module>
+        <module>TASCA8/T8NIVEL1/T8N1EJERCICIO6</module>
+        <module>TASCA8/T8NIVEL1/T8N1EJERCICIO7</module>
+        <module>TASCA8/T8NIVEL1/T8N1EJERCICIO8</module>
     </modules>
 
     <properties>
