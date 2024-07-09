@@ -1,5 +1,4 @@
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -60,7 +59,6 @@ public class ReaderWriter {
         try{
             FileWriter file = new FileWriter("ranking.txt", true);
             PrintWriter pw = new PrintWriter(file);
-            BufferedWriter bw = new BufferedWriter(file);
 
             pw.println(name + ": " + points);
 
