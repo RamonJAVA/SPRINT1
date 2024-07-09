@@ -7,6 +7,7 @@ public class Main {
 
         restaurants.add(new Restaurant("Mamma Mia Pizzeria", 4));
         restaurants.add(new Restaurant("Mamma Mia Pizzeria", 4));
+        restaurants.add(new Restaurant("Mamma Mia Pizzeria", 3));
         restaurants.add(new Restaurant("Spicy Meatball", 1));
         restaurants.add(new Restaurant("Tasty Tortellini", 5));
 

@@ -47,7 +47,7 @@ public class ReaderWriter {
 
         for(String country : countries.keySet()) {
             if (countryCheck.equalsIgnoreCase(search = countries.get(country))) {
-                if(capitalCheck.equals(country)){
+                if(capitalCheck.equalsIgnoreCase(country)){
                     check = true;
                 }
             }

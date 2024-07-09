@@ -32,7 +32,13 @@ public class Restaurant implements Comparable<Restaurant> {
 
     @Override
     public int compareTo(Restaurant r) {
-        return Integer.compare(r.getRating(), this.rating);
+        int compareName = this.getName().compareTo(r.getName());
+        int compareRating = r.getRating() - this.getRating() ;
+        if (compareName != 0) {
+            return compareName;
+        } else {
+            return compareRating;
+        }
     }
 
     @Override
